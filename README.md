@@ -3,6 +3,7 @@
 ![ alt text ](https://img.shields.io/badge/-Jupyter-F37626?logo=Jupyter&logoColor=white)
 ![ alt text ](https://img.shields.io/badge/-NumPy-013243?logo=Numpy&logoColor=white)
 ![ alt text ](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=TensorFlow&logoColor=white)
+![ alt text ](https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=white)
 ![ alt text ](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 
 Predicting house prices using different regression analysis models.
